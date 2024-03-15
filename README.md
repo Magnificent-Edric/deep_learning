@@ -1,6 +1,4 @@
-# deep_learning_course
 # deep learning
-# machine-learning-courses
 
 ### Hi there 👋
 
